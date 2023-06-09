@@ -1,7 +1,5 @@
-## Rodrigo Castro Andrade - C/C++ Programmer and Control & Automation Engineer
-
 ### About Me
-Mechatronics Engineer with a strong background in C/C++ programming. Interests include robotics, games, solar power, and learning new things.
+Mechatronics Engineer and C/C++ programmer. Interests include robotics, games, solar power, and learning new things.
 
 ### Get in Touch
 - LinkedIn: https://www.linkedin.com/in/rodrigo-castro-andrade
