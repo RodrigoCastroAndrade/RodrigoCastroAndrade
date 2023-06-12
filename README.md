@@ -1,5 +1,5 @@
 ### About Me
-Mechatronics Engineer and C/C++ programmer. Interests include, but are not limited, to: robotics, games, solar power, welding.
+Mechatronics Engineer and C/C++ programmer. Interests include, but are not limited, to: robotics, games, solar power, welding, AI.
 
 ### Get in Touch
 - LinkedIn: https://www.linkedin.com/in/rodrigo-castro-andrade
